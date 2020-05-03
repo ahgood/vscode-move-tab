@@ -1,6 +1,7 @@
 {
 	"name": "movetab",
 	"publisher": "ahgood",
+	"repository": "https://github.com/ahgood/vscode-move-tab",
 	"displayName": "MoveTab",
 	"description": "Move tab to first position.",
 	"version": "0.0.1",
