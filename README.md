@@ -2,5 +2,5 @@
 
 ## How to use
 
-- macOS: `CMD + Shift + p` -> `move tab` (to first position)
-- Windows: `Win + shift + p` -> `move tab` (to first position)
+- macOS: `CMD + Shift + p` -> `Move tab`
+- Windows: `ctrl + shift + p` -> `Move tab`
