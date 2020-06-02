@@ -1,6 +1,6 @@
 # Move tab to first/last/left/right position without using mouse
 
-## Installation (VS Code extenson page)
+## Installation (VS Code extension page)
 
 https://marketplace.visualstudio.com/items?itemName=ahgood.movetab
 
