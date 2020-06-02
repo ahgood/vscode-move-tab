@@ -13,4 +13,4 @@ Windows: `ctrl + shift + p` → `movetab`
 
 ## Screenshot
 
-![Screenshot](screenshot.png | width=610)
+![Screenshot](screenshot.png)
