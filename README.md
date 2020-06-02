@@ -3,6 +3,7 @@
 ## How to use
 
 macOS: `command + shift + p` → `movetab`
+
 Windows: `ctrl + shift + p` → `movetab`
 
 - Move Tab: To the first position
