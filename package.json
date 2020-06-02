@@ -3,8 +3,9 @@
 	"publisher": "ahgood",
 	"repository": "https://github.com/ahgood/vscode-move-tab",
 	"displayName": "MoveTab",
-	"description": "Move tab to first position.",
-	"version": "0.0.1",
+	"description": "Move tab to the first/last/left/right position.",
+	"version": "1.0.0",
+	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.44.0"
 	},
@@ -12,14 +13,29 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:movetab.moveTab"
+		"onCommand:movetab.moveTabToFirst",
+		"onCommand:movetab.moveTabToLast",
+		"onCommand:movetab.moveTabToLeft",
+		"onCommand:movetab.moveTabToRight"
 	],
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "movetab.moveTab",
-				"title": "Move tab"
+				"command": "movetab.moveTabToFirst",
+				"title": "Move Tab: To the first position"
+			},
+			{
+				"command": "movetab.moveTabToLast",
+				"title": "Move Tab: To the last position"
+			},
+			{
+				"command": "movetab.moveTabToLeft",
+				"title": "Move Tab: To the left"
+			},
+			{
+				"command": "movetab.moveTabToRight",
+				"title": "Move Tab: To the right"
 			}
 		]
 	},
