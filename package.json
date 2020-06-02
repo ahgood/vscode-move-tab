@@ -4,7 +4,7 @@
 	"repository": "https://github.com/ahgood/vscode-move-tab",
 	"displayName": "MoveTab",
 	"description": "Move tab to the first/last/left/right position.",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.44.0"
