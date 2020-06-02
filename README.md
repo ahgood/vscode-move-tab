@@ -1,5 +1,9 @@
 # Move tab to first/last/left/right position without using mouse
 
+## Installation (VS Code extenson page)
+
+https://marketplace.visualstudio.com/items?itemName=ahgood.movetab
+
 ## How to use
 
 macOS: `command + shift + p` → `movetab`
